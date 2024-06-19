@@ -1,0 +1,37 @@
+{
+    "expenses": [
+        {
+            "amount": 2071.96,
+            "date": "2024-06-12",
+            "category": "grogery payment"
+        },
+        {
+            "amount": 2961.78,
+            "date": "2024-06-12",
+            "category": "vegetable payment"
+        },
+        {
+            "amount": 35000.0,
+            "date": "2024-06-20",
+            "category": "rennt payment"
+        },
+        {
+            "amount": 35000.0,
+            "date": "2024-06-25",
+            "category": "loan payment"
+        }
+    ],
+    "income": [
+        {
+            "amount": 50000.0,
+            "date": "2024-06-11",
+            "category": "salary"
+        },
+        {
+            "amount": 35000.0,
+            "date": "2024-06-19",
+            "category": "freelanace"
+        }
+    ],
+    "balance": 9966.260000000002
+}
